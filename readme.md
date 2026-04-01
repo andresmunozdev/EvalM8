@@ -1,3 +1,8 @@
+# Repositorio
+
+https://github.com/andresmunozdev/EvalM8
+
+
 # API Clínica M8
 
 API REST desarrollada con **Node.js** y **Express** para la gestión de pacientes y médicos de una clínica, utilizando arreglos en memoria, autenticación con **JWT** y subida de archivos **PDF**.
@@ -25,7 +30,7 @@ Esta aplicación permite:
 
 ## Instalación
 
-1. Clonar o descargar el proyecto.
+1. Clonar o descargar el proyecto. (https://github.com/andresmunozdev/EvalM8.git) 
 2. Abrir la carpeta en VS Code.
 3. Instalar dependencias:
 
