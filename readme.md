@@ -33,3 +33,35 @@ bash
 npm install 
 
 4. Reemplazar archivo .env.para.evaluacion por .env
+
+
+## Endpoints públicos
+
+La API cuenta con los siguientes endpoints públicos:
+
+- `GET /acerca`
+- `POST /login`
+
+## Endpoints privados (se mencionan solo por ser para fines académicos)
+
+La API cuenta con los siguientes endpoints privados:
+
+Pacientes (Privado)
+	•	GET /pacientes
+	•	GET /pacientes/:id
+	•	POST /pacientes
+	•	PUT /pacientes/:id
+	•	DELETE /pacientes/:id
+
+Médicos (Privado)
+	•	GET /medicos
+	•	GET /medicos/:id
+	•	POST /medicos
+	•	PUT /medicos/:id
+	•	DELETE /medicos/:id
+
+Archivos (Privado)
+	•	POST /archivos → subir archivos PDF
+	•	GET /archivos → listar archivos subidos
+
+
